@@ -1,3 +1,6 @@
+############################################
+## Author: Dr. Zeki OZEN                  ##
+############################################
 
 # oncelikle MASS paketini R diline kuruyoruz.
 # MASS paketi kurulu ise alttaki satiri calistirmamiza gerek yok.
